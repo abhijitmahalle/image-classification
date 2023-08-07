@@ -1,4 +1,4 @@
-# Image Classification with Transfer Learning
+# Image Classification using Transfer Learning
 
 ### Project Description:
 
