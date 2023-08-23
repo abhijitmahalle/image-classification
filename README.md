@@ -4,7 +4,7 @@
 
 In this project, I have implemented "Transfer Learning" to train a deep learning model for the task where training data are very limited. Here you are given a data set with ten classes (Ten different monkey
 species) with only 140 images per class. First, I trained a simple convolutional neural network using these images and test the accuracy of the model
-using the validation set. Then, I used the pre-trained ResNet34 as a feature extractor to perform the transfer learning to boost the efficiency of the model.
+using the validation set. Then, I used the pre-trained VGG16 as a feature extractor to perform the transfer learning to boost the efficiency of the model.
 Transfer learning significantly improved the efficiency of the model.
 
 ### Pipeline
